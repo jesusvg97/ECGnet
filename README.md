@@ -1,1 +1,1 @@
-# repo_de_prueba
+# Modelo de red densa para inferencia en Jetson mediante TensorRT
